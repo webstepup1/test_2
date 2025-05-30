@@ -4,6 +4,6 @@
    
     $zip = "31231";
     $eqweate = "NY";
-    $country = "USA";   
-
+    $country = "dwdefer";   
+$cdsdf = 21312;
 
